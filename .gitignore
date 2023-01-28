@@ -5,8 +5,7 @@ rebuild.cmd
 
 # Business Intelligence projects
 *.rdl.data
-*.bim.layout
-*.bim_*.settings
+
 
 _site/
 api/
@@ -22,9 +21,7 @@ log/
 spell.json
 samples/framework/docker/MVCRandomAnswerGenerator/containerImage
 .DS_Store
-_dependentPackages/
-!/xml/System.IO.Log/
-!/xml/System.Net.Cache/
+
 
 # Visual Studio Code
 **/.vscode/
@@ -38,7 +35,6 @@ UpgradeLog*.htm
 # Windows thumbnail cache files
 Thumbs.db
 ehthumbs.db
-ehthumbs_vista.db
 
 # Windows shortcuts
 *.lnk
@@ -46,7 +42,7 @@ ehthumbs_vista.db
 [Bb]in/
 [Oo]bj/
 *.sln
-*.user
+
 
 # Ionide folder, used in F# for VSCode
 .ionide/
