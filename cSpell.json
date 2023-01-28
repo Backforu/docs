@@ -1020,7 +1020,7 @@
         "Zune",
         "zypper"
     ],
-    "flagWords": [],
+    "allowWords": [],
     "dictionaries": [
         "csharp",
         "cpp",
@@ -1038,7 +1038,7 @@
         "filetypes",
         "lorem-ipsum"
     ],
-    "ignoreRegExpList": [
+    "allowRegExpList": [
         "author:[\\w\\s\"\\-\\.\\d]*",
         "ms\\.author:[\\w\\s\\d\"\\-\\.;]*",
         "ms\\.custom:[\\w\\s\"\\-\\.=\\,]*",
@@ -1058,7 +1058,7 @@
         "Urls",
         "Email"
     ],
-    "ignorePaths": [
+    "allowPaths": [
         "**/*.PNG",
         "**/*.JPG",
         "**/*.GIF",
@@ -1117,7 +1117,7 @@
         }
     ],
     "maxNumberOfProblems": 1000,
-    "enabledLanguageIds": [
+    "disabledLanguageIds": [
         "asciidoc",
         "c",
         "cpp",
