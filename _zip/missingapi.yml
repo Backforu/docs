@@ -1,5 +1,5 @@
 ### YamlMime:XRefMap
-hrefUpdated: true
+hrefUpdated: false
 references:
 - uid: System.Diagnostics.PresentationTraceSources.TraceLevel*
   href: https://msdn.microsoft.com/library/system.diagnostics.presentationtracesources.tracelevel.aspx
@@ -7,18 +7,18 @@ references:
   name.vb: TraceLevel
   fullName: PresentationTraceSources.TraceLevel
   fullName.vb: PresentationTraceSources.TraceLevel
-- uid: System.Windows.Controls.Validation.HasError*
-  href: https://msdn.microsoft.com/library/system.windows.controls.validation.haserror
-  name: HasError
-  name.vb: HasError
-  fullName: Validation.HasError
-  fullName.vb: Validation.HasError
-- uid: System.Windows.Controls.Validation.Errors*
-  href: https://msdn.microsoft.com/library/system.windows.controls.validation.errors.aspx
-  name: Errors
-  name.vb: Errors
-  fullName: Validation.Errors
-  fullName.vb: Validation.Errors
+- uid: System.Windows.Controls.Validation*
+  href: https://msdn.microsoft.com/library/system.windows.controls.validation
+  name: validation 
+  name.vb: validation 
+  fullName: Validation
+  fullName.vb: Validation
+- uid: System.Windows.Controls.Validation
+  href: https://msdn.microsoft.com/library/system.windows.controls.validation
+  name: validation 
+  name.vb: validation 
+  fullName: Validation
+  fullName.vb: Validation
 - uid: System.Windows.Localization.Attributes*
   href: https://msdn.microsoft.com/library/system.windows.localization.attributes.aspx
   name: Attributes
@@ -32,14 +32,14 @@ references:
   fullName: Localization.Comments
   fullName.vb: Localization.Comments
 - uid: System.Windows.Shell.WindowChrome.ResizeGripDirection*
-  href: https://msdn.microsoft.com/library/system.windows.shell.windowchrome.resizegripdirection.aspx
+  href: https://msdn.microsoft.com/library/system.windows.shell.windowchrome
   name: ResizeGripDirection
   name.vb: ResizeGripDirection
-  fullName: WindowChrome.ResizeGripDirection
-  fullName.vb: WindowChrome.ResizeGripDirection
-- uid: System.Windows.VisualStateManager.VisualStateGroups*
+  fullName: WindowChrome
+  fullName.vb: WindowChrome
+- uid: System.Windows.VisualStateManager
   href: https://msdn.microsoft.com/library/system.windows.visualstatemanager.visualstategroups.aspx
-  name: VisualStateGroups
+  name: 
   name.vb: VisualStateGroups
-  fullName: VisualStateManager.VisualStateGroups
-  fullName.vb: VisualStateManager.VisualStateGroups
+  fullName: VisualStateManager.VisualState
+  fullName.vb: VisualStateManager.VisualState
